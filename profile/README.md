@@ -3,5 +3,18 @@
   <img valign="middle" src="https://mitmproxy.org/mitmweb.png" width="46%" /> 
 </div>
 
-mitmproxy is a free and open source interactive HTTPS proxy. It is your swiss-army knife for debugging, testing, privacy measurements, and penetration testing. It can be used to intercept, inspect, modify and replay web traffic such as HTTP/1, HTTP/2, WebSockets, or any other SSL/TLS-protected protocols. You can prettify and decode a variety of message types ranging from HTML to Protobuf, intercept specific messages on-the-fly, modify them before they reach their destination, and replay them to a client or server later on.
+### mitmproxy
 
+
+mitmproxy is a free and open source interactive HTTPS proxy. It is your swiss-army knife for debugging, testing, privacy measurements, and penetration testing. It can be used to intercept, inspect, modify and replay web traffic such as HTTP/1, HTTP/2, WebSockets, or any other SSL/TLS-protected protocols.
+
+<hr>
+
+General information, tutorials, and precompiled binaries can be found on the mitmproxy website.
+
+[![mitmproxy.org](https://shields.mitmproxy.org/badge/https%3A%2F%2F-mitmproxy.org-blue.svg)](https://mitmproxy.org/)
+
+The documentation for mitmproxy is available on our website:
+
+[![mitmproxy documentation stable](https://shields.mitmproxy.org/badge/docs-stable-brightgreen.svg)](https://docs.mitmproxy.org/stable/)
+[![mitmproxy documentation dev](https://shields.mitmproxy.org/badge/docs-dev-brightgreen.svg)](https://docs.mitmproxy.org/main/)
