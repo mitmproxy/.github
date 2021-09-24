@@ -12,5 +12,5 @@ mitmproxy is a free and open source interactive HTTPS proxy. It is your swiss-ar
 
 General information, tutorials, and precompiled binaries can be found on the mitmproxy website.
 
-[![mitmproxy.org](https://shields.mitmproxy.org/badge/https%3A%2F%2F-mitmproxy.org-blue.svg)](https://mitmproxy.org/)
+[![mitmproxy.org](https://shields.mitmproxy.org/badge/https%3A%2F%2F-mitmproxy.org-brightgreen.svg)](https://mitmproxy.org/)
 
