@@ -16,5 +16,5 @@ General information, tutorials, and precompiled binaries can be found on the mit
 
 You may support the project using GitHub Sponsors.
 
-[![sponsor](https://img.shields.io/badge/sponsor-mitmproxy-ff69b4?logo=github%20sponsors)](https://mitmproxy.org/)
+[![sponsor](https://img.shields.io/badge/sponsor-mitmproxy-ff69b4?logo=github%20sponsors)](https://github.com/sponsors/mhils)
 
