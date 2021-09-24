@@ -14,3 +14,6 @@ General information, tutorials, and precompiled binaries can be found on the mit
 
 [![mitmproxy.org](https://shields.mitmproxy.org/badge/https%3A%2F%2F-mitmproxy.org-brightgreen.svg)](https://mitmproxy.org/)
 
+
+[![sponsor](https://img.shields.io/badge/sponsor-mitmproxy-ff69b4?logo=github%20sponsors)](https://mitmproxy.org/)
+
